@@ -1,1 +1,1 @@
-{"barang": "Tisu A",  "harga": 2000.0,  "satuan": "kotak"},{"barang": "Tisu B",  "harga": 2500.0,  "satuan": "kotak"},{"barang": "Tisu C",  "harga": 3500.0,  "satuan": "kotak"},
+[{"barang": "Tisu A",  "harga": 2000.0,  "satuan": "kotak"},{"barang": "Tisu B",  "harga": 2500.0,  "satuan": "kotak"},{"barang": "Tisu C",  "harga": 3500.0,  "satuan": "kotak"}]
