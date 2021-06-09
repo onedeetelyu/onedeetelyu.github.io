@@ -11,7 +11,7 @@
   ]
 },
 {
-  "id": 1,
+  "id": 2,
   "bab": 6,
   "pertanyaan": "Ini pertanyaan",
   "opsiJawaban": [
@@ -23,7 +23,7 @@
   ]
 },
 {
-  "id": 1,
+  "id": 3,
   "bab": 7,
   "pertanyaan": "Ini pertanyaan",
   "opsiJawaban": [
@@ -35,7 +35,7 @@
   ]
 },
 {
-  "id": 1,
+  "id": 4,
   "bab": 8,
   "pertanyaan": "Ini pertanyaan",
   "opsiJawaban": [
